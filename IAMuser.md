@@ -4,12 +4,12 @@ While logged in as a root user, go to IAM in the AWS console, click
 ‘Users’ from the menu on the right, and select the desired user.
 Then, under ‘Permissions’, add the policy that gives the user admin access:
 
-![image](1.png)
+![image1](./1.png)
 
 After, under ‘Security credentials’, click on ‘Manage Console’ to
 create/change the password for that IAMuser:
 
-![2.png](2.png)
+![2](./2.png)
 
 
 
